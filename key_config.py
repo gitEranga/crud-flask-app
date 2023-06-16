@@ -1,0 +1,6 @@
+ACCESS_KEY_ID='AKIAZGJO3C5PUCX2V5OF'
+ACCESS_SECRET_KEY='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'
+REGION_NAME='ap-southeast-1'
+
+
+#BUCKET_NAME='unigrade-test-bucket-test'
